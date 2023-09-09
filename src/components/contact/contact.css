@@ -1,0 +1,27 @@
+.ContactSection{
+    width: 60%;
+    margin: auto    
+   }
+   .contact-header{
+       text-align: center;
+       font-size: 22px;
+       color: #000;
+       padding-bottom: 2em;
+   }
+   .contact-line{
+       border: 2px solid rgb(0,141,201);;
+       opacity: 1;
+       text-align: center;
+       width: 6em;
+       margin-left: 43%;
+       margin-top: -3em;
+   }
+   .contactBtn {
+       background-color: rgb(0,141,201);
+       border: 0;
+       border-radius: 4px;
+       color: #fff;
+       height: 3em;
+       margin-top: 2em;
+       width: 5em;
+   }

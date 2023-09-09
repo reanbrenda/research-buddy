@@ -1,0 +1,21 @@
+.FaqSection{
+    width: 60%;
+    margin: auto;
+    padding-top: 2em;
+    height: 80vh
+}
+.FaqTopic{
+    text-align: center;
+    font-size: 22px;
+    color: #000;
+    padding-bottom: 2em;
+}
+.FaqLine{
+    border: 2px solid rgb(0,141,201);
+    opacity: 1;
+    text-align: center;
+    width: 10em;
+    margin-left: 40%;
+    margin-top: -3em;
+
+}

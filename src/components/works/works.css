@@ -1,0 +1,21 @@
+
+.WorkSection{
+    margin: auto;
+    width: 70%
+}
+.WorkSectionTitle{
+    text-align: center;
+    font-size: 22px;
+    color: #000;
+    padding-bottom: 2em;
+}
+.worksection-line{
+    border: 2px solid #008dc9;
+    opacity: 1;
+    text-align: center;
+    width: 4.2em;
+    margin-left: 47%;
+    margin-top: -3em;
+
+}
+
