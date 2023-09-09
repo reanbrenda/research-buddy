@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Research Collaboration Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Research Collaboration Platform! This space has been specially designed to empower medical researchers and research institutes to enhance their collaborative efforts in addressing critical medical challenges. Our platform's primary aim is to foster interdisciplinary teamwork, allowing researchers to pool their knowledge, data, and insights to drive more informed and impactful research outcomes.
 
-## Available Scripts
+## Purpose
 
-In the project directory, you can run:
+The Research Collaboration Platform serves as a dedicated hub for medical researchers and research institutes. Its overarching purpose can be summarized as follows:
 
-### `yarn start`
+**Facilitate Effective Collaboration:** Our platform's main objective is to enable seamless collaboration among medical researchers. By providing a secure and efficient environment, we aim to promote interdisciplinary teamwork, allowing researchers to work together on emerging medical issues.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Enable Knowledge Sharing:** We prioritize the sharing of knowledge, data, and insights among researchers. By facilitating easy information exchange, we empower our users to stay well-informed and make evidence-based decisions.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Key Features
 
-### `yarn test`
+Our platform boasts a variety of features tailored to meet the unique needs of medical research collaboration:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### User-friendly Dashboard
 
-### `yarn build`
+A centralized dashboard offers an intuitive and user-friendly interface. This dashboard provides:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- An Overview: Get a quick look at ongoing projects, discussions, and milestones all in one place.
+- Easy Navigation: Access key platform functionalities effortlessly.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Project Creation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Creating and managing research projects is a breeze on our platform. Here's what you can do:
 
-### `yarn eject`
+- New Project Setup: Effortlessly initiate new research projects with clearly defined goals.
+- Collaborator Invitation: Invite fellow researchers to join your projects and contribute their expertise.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Collaboration Tools
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Robust discussion forums and data sharing capabilities are at your disposal:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Discussion Forums: Engage in meaningful discussions, brainstorm ideas, and exchange insights.
+- Data Sharing: Seamlessly share research data and findings to foster collaboration and enhance collective understanding.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Project Management
 
-## Learn More
+Stay on top of your research projects with our project management features:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Progress Tracking: Monitor project progress in real-time.
+- Milestone Setting: Define key milestones to guide your research journey.
+- Document Management: Keep project documentation organized and easily accessible.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### DEMO
 
-### Code Splitting
+https://github.com/reanbrenda/research-buddy/assets/21184532/37fa089c-acd5-49e7-9d46-f216fc7c69e7
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
